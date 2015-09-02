@@ -1,0 +1,6 @@
+[user]
+	email = melody@melody.blue
+	name = Melody Kelly
+[core]
+	editor = nvim
+	whitespace = fix,-indent-with-non-tab,trailing-space,cr-at-eol
