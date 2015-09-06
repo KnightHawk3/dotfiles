@@ -1,3 +1,4 @@
+set nocompatible " Actually not needed in neovim :)
 
 """ Plugins
 call plug#begin("~/.vim/plugged")
