@@ -4,7 +4,7 @@ scroll_on_output = false
 scroll_on_keystroke = true
 audible_bell = false
 visible_bell = false
-mouse_autohide = false
+mouse_autohide = true
 allow_bold = true
 dynamic_title = true
 urgent_on_bell = true
@@ -37,45 +37,45 @@ browser = firefox
 [colors]
 
 # special
-foreground      = #f8f8f8
-foreground_bold = #f8f8f8
-cursor          = #f8f8f8
-background      = rgba(17, 17, 17, .8)
+foreground      = #ffffff
+foreground_bold = #ffffff
+cursor          = #ffffff
+background      = #1e1f29
 
 # black
-color0  = #171717
-color8  = #38252c
+color0  = rgba(0, 0, 0, .8)
+color8  = #4d4d4d
 
 # red
-color1  = #d81765
-color9  = #ff0000
+color1  = #ff5555
+color9  = #ff5555
 
 # green
-color2  = #97d01a
-color10 = #76b639
+color2  = #50fa7b
+color10 = #50fa7b
 
 # yellow
-color3  = #ffa800
-color11 = #e1a126
+color3  = #f1fa8c
+color11 = #f1fa8c
 
 # blue
-color4  = #16b1fb
-color12 = #289cd5
+color4  = #bd93f9
+color12 = #bd93f9
 
 # magenta
-color5  = #ff2491
-color13 = #ff2491
+color5  = #ff79c6
+color13 = #ff79c6
 
 # cyan
-color6  = #0fdcb6
-color14 = #0a9b81
+color6  = #8be9fd
+color14 = #8be9fd
 
 # white
-color7  = #ebebeb
-color15 = #f8f8f8
+color7  = #e5e5e5
+color15 = #ffffff
+
 
 
 [hints]
 font = Menlo 10
-
 # vim: ft=dosini cms=#%s
