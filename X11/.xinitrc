@@ -1,2 +1,3 @@
 xcompmgr &
+autocutsel &
 exec awesome
